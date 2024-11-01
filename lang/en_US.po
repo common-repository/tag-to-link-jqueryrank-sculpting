@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tag-to-Link\n"
+"POT-Creation-Date: 2013-07-05 13:20+0100\n"
+"PO-Revision-Date: 2013-07-05 13:28+0100\n"
+"Last-Translator: Mathieu Chartier <mathieu.chartier@internet-formation.fr>\n"
+"Language-Team: Mathieu Chartier <mathieu.chartier@internet-formation.fr>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: plurals=2;plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Carter\\Desktop\\Tag-to-Link\n"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:28
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:79
+msgid "Enregistrer"
+msgstr "Upload"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:37
+msgid "Réglages de Tag-to-Link - jQueryRank sculpting"
+msgstr "Settings : Tag-to-Link - jQueryRank sculpting"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:38
+msgid ""
+"<strong>Tag-to-Link</strong> permet de modifier n'importe quelle balise HTML "
+"en lien afin d'éviter un surnombre de liens dans les pages web et donc une "
+"division peu avantageuse du PageRank"
+msgstr ""
+"<strong>Tag-to-Link</strong> allows you to change any HTML tag in hyperlink "
+"to avoid an excess of links in web pages and therefore a little advantageous "
+"division of PageRank"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:39
+msgid ""
+"L'extension règle ainsi les problèmes de <strong>PageRank Sculpting</strong> "
+"mais aussi la gestion des ancres de liens de manière propre et discrète aux "
+"yeux des moteurs de recherche."
+msgstr ""
+"The plugin solve the problems of <strong>PageRank Sculpting</strong> and the "
+"management anchors links for search engines optimization (SEO)."
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:40
+msgid "L'utilisation est simple :"
+msgstr "Usage is simple:"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:42
+msgid ""
+"<strong>ajoutez la classe CSS</strong> paramétrée aux balises HTML qui "
+"doivent se transformer en liens"
+msgstr ""
+"<strong>add HTML tags to set CSS class</strong> that should turn into links"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:43
+msgid ""
+"<strong>ajoutez un attribut</strong> au choix (\"title\" par défaut car "
+"polyvalent) pour noter les URL finales qui feront office de liens"
+msgstr ""
+"<strong>add an attribute</strong> of choice (default: \"title\") to record "
+"the final URL, which will act as links"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:44
+msgid ""
+"<strong>Choisissez l'action de la souris</strong> qui active la "
+"transformation ainsi que la classe CSS ajoutée au lien final"
+msgstr ""
+"<strong>Choose the mouse action</strong> that activates the transformation "
+"as well as the CSS class added to the final link"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:46
+msgid "Exemple d'usage"
+msgstr "Example of use"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:47
+msgid ""
+"<em>&lsaquo;span title=\"http://www.monsite.com\" class=\"linktoggle"
+"\"&rsaquo;Ancre du lien&lsaquo;/span&rsaquo;</em>"
+msgstr ""
+"<em>&lsaquo;span title=\"http://www.mywebsite.com\" class=\"linktoggle"
+"\"&rsaquo;Link anchor&lsaquo;/span&rsaquo;</em>"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:49
+msgid ""
+"<em>&lsaquo;a href=\"http://www.monsite.com\" class=\"newlink\"&rsaquo;Ancre "
+"du lien&lsaquo;/a&rsaquo;</em>"
+msgstr ""
+"<em>&lsaquo;a href=\"http://www.mywebsite.com\" class=\"newlink\"&rsaquo;"
+"Link anchor&lsaquo;/a&rsaquo;</em>"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:53
+msgid "Paramètres de l'extension"
+msgstr "Plugin Settings"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:60
+msgid "Sélecteur jQuery (.class ou #id)"
+msgstr "jQuery selector (.class or #id)"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:64
+msgid "Attribut contenant l'URL finale"
+msgstr "Attribute containing the final URL"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:68
+msgid "&Eacute;vénement (action avec la souris)"
+msgstr "Event (mouse action)"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:70
+msgid "au survol"
+msgstr "onmouseover"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:71
+msgid "au clic"
+msgstr "onclick"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:72
+msgid "au double clic"
+msgstr "ondblclick"
+
+#: C:\Users\Carter\Desktop\Tag-to-Link/element-to-link-options.php:76
+msgid "Classe CSS pour les liens transformés"
+msgstr "CSS class for the modified links"
